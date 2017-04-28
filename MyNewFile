@@ -1,5 +1,10 @@
 My new file is here.
 This was added in the second branch
 This was added after the pull
+<<<<<<< HEAD
 This change was made on VS code
 
+=======
+This change was made online
+This is a second change made online
+>>>>>>> ba76f1562332bc736b8c19c1f923390c34f55ba2
